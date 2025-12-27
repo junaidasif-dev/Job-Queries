@@ -1,6 +1,6 @@
 ### Folder Structure
 
-If I were to build a real MCP server in Python, here is how I would organize it:
+If I were to build a real MCP server, here is how I would organize it:
 
 ```
 mcp-server/
